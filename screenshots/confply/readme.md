@@ -3,4 +3,7 @@ Confply
 
 screenshots for confply.
 
-![auto-complete](auto-complete.png)
+<img src="auto-complete.png" width="758">
+
+<!-- height="790" -->
+<!-- ![auto-complete](auto-complete.png | width=100) -->
