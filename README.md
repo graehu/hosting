@@ -1,2 +1,2 @@
 # hosting
-A place for me to host things
+A place for me to host things like gifs, videos, etc.
